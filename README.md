@@ -88,18 +88,16 @@ Ofereçer autenticação, autorização e gerenciamento de usuários para suas a
   
 ## Resultado Final
 
-  - A aplicação está funcionando com autorização via token e inserindo dados para o AWS Lambda como mostra a imagem abaixo do POSTMAN.
+  - A aplicação está funcionando com autorização via token e inserindo dados para o Amazon DynamoDB como mostra a imagem abaixo do POSTMAN.
   
   
-![AUTORIZAÇÃO TOKEN](postman 2.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![AUTORIZAÇÃO TOKEN](https://github.com/elmiso007/bootcamp-aws-desafio-cognito/blob/master/src/assets/postman%202.png) 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
+![Inserido com Sucesso](https://github.com/elmiso007/bootcamp-aws-desafio-cognito/blob/master/src/assets/POSTMAN%201.png)
+
 
 # Autor
 
